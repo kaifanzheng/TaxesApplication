@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{FA6746BD-BFB1-478E-B8B1-F0E59D77B1AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaxesApplication/Test/ApplicationUser_API_test.cs">
+    <Files>
+      <File FileName="TaxesApplication/TaxesApplication.csproj" Line="19" Column="24" />
+      <File FileName="TaxesApplication/Test/ApplicationUser_API_test.cs" Line="37" Column="47" />
+      <File FileName="TaxesApplication/Test/MAIN.cs" Line="15" Column="1" />
+      <File FileName="TaxesApplication/Services/ApplicationUser_service.cs" Line="22" Column="65" />
+      <File FileName="TaxesApplication/API_Console/User_API.cs" Line="19" Column="38" />
+      <File FileName="TaxesApplication/Business_logic/Calculate_regular.cs" Line="16" Column="44" />
+      <File FileName="TaxesApplication/Business_logic/Classification.cs" Line="24" Column="74" />
+      <File FileName="TaxesApplication/Services/ApplicationUser_validation.cs" Line="1" Column="1" />
+      <File FileName="TaxesApplication/Services/Argument.cs" Line="1" Column="1" />
+      <File FileName="TaxesApplication/Models/GoodType.cs" Line="10" Column="29" />
+      <File FileName="TaxesApplication/Business_logic/Calculate_importedTaxFree.cs" Line="9" Column="53" />
+      <File FileName="TaxesApplication/Business_logic/Calculate_importedRegular.cs" Line="17" Column="10" />
+      <File FileName="TaxesApplication/Business_logic/IClassification.cs" Line="1" Column="1" />
+      <File FileName="TaxesApplication/Services/IValidation.cs" Line="1" Column="1" />
+      <File FileName="TaxesApplication/Models/ApplicationUser.cs" Line="1" Column="1" />
+      <File FileName="TaxesApplication/Models/Good.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaxesApplication" expanded="True">
+            <Node name="TaxesApplication" expanded="True">
+              <Node name="API_Console" expanded="True" />
+              <Node name="Business_logic" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Test" expanded="True">
+                <Node name="ApplicationUser_API_test.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TaxesApplication" expanded="True" selected="True">
+            <Node name="TaxesApplication" expanded="True">
+              <Node name="TaxesApplication.Test" expanded="True">
+                <Node name="ApplicationUser_API_test" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TaxesApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

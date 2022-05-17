@@ -1,0 +1,9 @@
+/Users/kaifan/Documents/gitStuffs/TaxesApplication/TaxesApplication/bin/Debug/net48/TaxesApplication.runtimeconfig.json
+/Users/kaifan/Documents/gitStuffs/TaxesApplication/TaxesApplication/bin/Debug/net48/TaxesApplication.runtimeconfig.dev.json
+/Users/kaifan/Documents/gitStuffs/TaxesApplication/TaxesApplication/bin/Debug/net48/TaxesApplication.exe
+/Users/kaifan/Documents/gitStuffs/TaxesApplication/TaxesApplication/bin/Debug/net48/TaxesApplication.pdb
+/Users/kaifan/Documents/gitStuffs/TaxesApplication/TaxesApplication/obj/Debug/net48/TaxesApplication.csproj.AssemblyReference.cache
+/Users/kaifan/Documents/gitStuffs/TaxesApplication/TaxesApplication/obj/Debug/net48/TaxesApplication.csproj.CoreCompileInputs.cache
+/Users/kaifan/Documents/gitStuffs/TaxesApplication/TaxesApplication/obj/Debug/net48/TaxesApplication.AssemblyInfo.cs
+/Users/kaifan/Documents/gitStuffs/TaxesApplication/TaxesApplication/obj/Debug/net48/TaxesApplication.exe
+/Users/kaifan/Documents/gitStuffs/TaxesApplication/TaxesApplication/obj/Debug/net48/TaxesApplication.pdb
