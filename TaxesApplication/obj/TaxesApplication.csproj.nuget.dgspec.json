@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kaifan/Documents/gitStuffs/TaxesApplication/TaxesApplication/TaxesApplication.csproj": {}
+    "/Users/kaifan/Documents/GitHub/TaxesApplication/TaxesApplication/TaxesApplication.csproj": {}
   },
   "projects": {
-    "/Users/kaifan/Documents/gitStuffs/TaxesApplication/TaxesApplication/TaxesApplication.csproj": {
+    "/Users/kaifan/Documents/GitHub/TaxesApplication/TaxesApplication/TaxesApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kaifan/Documents/gitStuffs/TaxesApplication/TaxesApplication/TaxesApplication.csproj",
+        "projectUniqueName": "/Users/kaifan/Documents/GitHub/TaxesApplication/TaxesApplication/TaxesApplication.csproj",
         "projectName": "TaxesApplication",
-        "projectPath": "/Users/kaifan/Documents/gitStuffs/TaxesApplication/TaxesApplication/TaxesApplication.csproj",
+        "projectPath": "/Users/kaifan/Documents/GitHub/TaxesApplication/TaxesApplication/TaxesApplication.csproj",
         "packagesPath": "/Users/kaifan/.nuget/packages/",
-        "outputPath": "/Users/kaifan/Documents/gitStuffs/TaxesApplication/TaxesApplication/obj/",
+        "outputPath": "/Users/kaifan/Documents/GitHub/TaxesApplication/TaxesApplication/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kaifan/.config/NuGet/NuGet.Config"
