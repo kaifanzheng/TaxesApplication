@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{E35B1D70-174E-47ED-9AC6-4A74BB3197B8}|Default">
+  <MonoDevelop.Ide.ItemProperties.TaxApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaxApp/Services/ApplicationUser.cs">
+    <Files>
+      <File FileName="TaxApp/Services/CalculateRecipt.cs" Line="20" Column="10" />
+      <File FileName="TaxApp/Services/GoodValidation.cs" Line="11" Column="14" />
+      <File FileName="TaxApp/Models/MainTest.cs" Line="18" Column="39" />
+      <File FileName="TaxApp/API/User_API.cs" Line="20" Column="10" />
+      <File FileName="TaxApp/Services/ApplicationUser.cs" Line="18" Column="2" />
+      <File FileName="TaxApp/Models/Cart.cs" Line="21" Column="18" />
+      <File FileName="TaxApp/Models/CartItems.cs" Line="1" Column="1" />
+      <File FileName="TaxApp/Models/ApplicationUser.cs" Line="10" Column="32" />
+      <File FileName="TaxApp/Services/CartItems.cs" Line="15" Column="31" />
+      <File FileName="TaxApp/Models/Good.cs" Line="1" Column="1" />
+      <File FileName="TaxApp/Services/UserValidation.cs" Line="27" Column="1" />
+      <File FileName="TaxApp/Services/Argument.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaxApp" expanded="True">
+            <Node name="TaxApp" expanded="True">
+              <Node name="API" expanded="True" />
+              <Node name="Business_logic" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="ApplicationUser.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
